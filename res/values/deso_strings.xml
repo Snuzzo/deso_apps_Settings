@@ -17,5 +17,7 @@
 <!-- Custom Settings -->    
   <!-- Dashboard -->
     <string name="header_category_custom">ROM Control</string>
+    <string name="deso_settings_title">Desolated Core</string>
+    <string name="deso_settings_summary">ROM features &amp; customization</string>
 
 </resources>

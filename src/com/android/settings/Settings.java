@@ -170,4 +170,6 @@ public class Settings extends SettingsActivity {
     public static class SystemSettings extends SettingsActivity { /* empty */ }
 
     public static class ButtonsSettingsActivity extends SettingsActivity { /* empty */ }
+    // Deso Additions.
+    public static class DesoSettingsActivity extends SettingsActivity { /* empty */ }
 }
