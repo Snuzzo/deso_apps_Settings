@@ -19,7 +19,6 @@
         android:title="@string/about_settings">
 
        <PreferenceScreen android:key="deso_logo"
-                          android:enabled="false"
                           android:layout="@layout/deso_logo_row" />
 
         <!-- System update settings - launches activity -->
