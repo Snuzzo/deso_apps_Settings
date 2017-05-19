@@ -51,4 +51,8 @@
     <!-- AOSP-CAF Version -->
     <string name="version_title">CAF Version</string>
     <string name="version_default">Unknown</string>
+
+    <!-- Navigation -->
+    <string name="navigation_category">Navigation</string>
+
 </resources>
