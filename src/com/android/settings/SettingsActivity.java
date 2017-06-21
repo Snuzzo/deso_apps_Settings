@@ -142,11 +142,6 @@ import com.android.settingslib.drawer.Tile;
 import com.deso.settings.DesoSettings;
 
 import java.net.URISyntaxException;
-import com.abc.settings.fragments.FlingSettings;
-import com.abc.settings.fragments.NavbarSettings;
-import com.abc.settings.fragments.SmartbarSettings;
-import com.abc.settings.fragments.PulseSettings;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
@@ -398,11 +393,7 @@ public class SettingsActivity extends SettingsDrawerActivity
             AutomaticStorageManagerSettings.class.getName(),
             ButtonsSettings.class.getName(),
             DesoSettings.class.getName(),
-            RunningServices.class.getName(),
-            NavbarSettings.class.getName(),
-            FlingSettings.class.getName(),
-            SmartbarSettings.class.getName(),
-            PulseSettings.class.getName()
+            RunningServices.class.getName()
     };
 
 
