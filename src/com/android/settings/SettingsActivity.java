@@ -271,7 +271,6 @@ public class SettingsActivity extends SettingsDrawerActivity
             //custom_section
             DesoSettings.class.getName(),
             //device_section
-            Settings.ButtonsSettingsActivity.class.getName(),
             Settings.HomeSettingsActivity.class.getName(),
             Settings.SoundSettingsActivity.class.getName(),
             Settings.DisplaySettingsActivity.class.getName(),
@@ -396,7 +395,6 @@ public class SettingsActivity extends SettingsDrawerActivity
             NightDisplaySettings.class.getName(),
             ManageDomainUrls.class.getName(),
             AutomaticStorageManagerSettings.class.getName(),
-            ButtonsSettings.class.getName(),
             DesoSettings.class.getName(),
             RunningServices.class.getName(),
             FlingSettings.class.getName(),
